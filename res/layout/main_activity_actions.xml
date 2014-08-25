@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/action_accept"
+        android:icon="@drawable/ic_action_accept"
+        android:title="@string/action_accept"
+        app:showAsAction="ifRoom"
+        tools:ignore="MissingPrefix"/>
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/action_refresh"
+        app:showAsAction="ifRoom"
+        tools:ignore="MissingPrefix"/>
+
+    <item
+        android:id="@+id/action_openimage"
+        android:icon="@drawable/ic_action_picture"
+        android:title="@string/action_openimage"
+        app:showAsAction="ifRoom"
+        tools:ignore="MissingPrefix"/>
+
+</menu>

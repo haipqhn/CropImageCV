@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crop Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_openimage">Open image</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_accept">accept</string>
+
+</resources>
